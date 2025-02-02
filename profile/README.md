@@ -1,6 +1,5 @@
 # EmulatorX
 
-![EmulatorX Logo](https://your-logo-url.com/logo.png)  
 **A powerful emulation manager to streamline your gaming experience!**
 
 ---
