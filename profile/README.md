@@ -24,7 +24,7 @@ Emulator-Server is an optional companion server for EmulatorX that enables remot
 
 ## Installation
 ### EmulatorX
-1. **Download** the latest version from the [Releases](https://github.com/your-org/EmulatorX/releases) page.
+1. **Download** the latest version from the [Releases](https://github.com/X-Emulation/EmulatorX/releases) page.
 2. **Install** the application following the setup instructions.
 3. **Configure** your emulators and game library through the EmulatorX UI.
 4. **Launch** your favorite games seamlessly!
@@ -37,11 +37,11 @@ Emulator-Server is an optional companion server for EmulatorX that enables remot
 2. **Install dependencies** (if required):
    ```sh
    cd Emulator-Server
-   npm install  # or another package manager depending on the tech stack
+   yarn install
    ```
 3. **Run the server:**
    ```sh
-   npm start
+   yarn start
    ```
 4. **Connect EmulatorX** to the running Emulator-Server for enhanced features.
 
